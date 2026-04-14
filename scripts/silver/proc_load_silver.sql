@@ -1,4 +1,7 @@
 /*
+=======================================================
+Stored Procedure: Load Silver Layerv (Bronze -> Silver
+=======================================================
 This script defines a stored procedure to load and refresh the Silver layer by 
 truncating existing data and applying data cleaning, transformation, and quality 
 checks on Bronze layer tables. It standardizes formats, handles missing and 
